@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Delhi Woman In Burqa Robs Own Home Because \"Mother Loved Sister More\" - NDTV",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2024-02-04T12:06:33Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Sports Desk",
+      "title": "Rohit Sharma sarcastically trolls Kuldeep Yadav after India escape DRS blunder - Hindustan Times",
+      "description": "Rohit Sharma sarcastically applauded Kuldeep Yadav's DRS opinion after he got it awfully wrong. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/rohit-sharma-sarcastically-trolls-kuldeep-yadav-after-india-narrowly-escape-drs-blunder-against-england-watch-video-101707043114218.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/04/1600x900/kuldeep-rohit_1707043246635_1707043256832.jpg",
+      "publishedAt": "2024-02-04T10:45:15Z",
+      "content": "Remember how Rohit Sharma is not convinced of Kuldeep Yadav's DRS calls? Yes, the Indian captain's trust issues with Kuldeep's reviews were once again captured on the field as India narrowly escaped … [+3132 chars]"
+    }
+  ]
+}
