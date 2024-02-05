@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import Navbar from './components/Navbar'
 import News from './components/News'
+import Navbar from './components/Navbar'
 export class App extends Component {
   static propTypes = {
 
@@ -10,9 +10,7 @@ export class App extends Component {
   render() {
     return (
       <div>
-
         <Navbar/>
-        
         <News/>
       </div>
     )
